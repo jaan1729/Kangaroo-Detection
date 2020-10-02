@@ -5,3 +5,6 @@ Using YOLOv4 from https://github.com/miemie2013/Keras-YOLOv4/ repository.
 
 Also inspired from https://github.com/matterport/Mask_RCNN/blob/master/mrcnn/utils.py for mAP calculations
 
+Working Notebook (Final) : KangarooDetection.ipynb 
+
+Notebook for future developement: Copy_of_KangarooDetection.ipynb
